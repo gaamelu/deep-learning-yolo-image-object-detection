@@ -1,6 +1,4 @@
-# README
-.
-
+# Projeto Computacional I
 ## Reconhecimento de objetos usando YOLO
 
 A atividade consiste em aplicar o algoritmo YOLO em detecção de imagens.
